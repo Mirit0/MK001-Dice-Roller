@@ -5,7 +5,6 @@ Roll animated 3D tabletop dice or flip a coin with Capri. Supports D4, D6, D8, D
 - Kind: code mod
 - Made by: Mirit0
 - Version: 1.0.7
-- Needs: Capri 0.8.3 or newer (Windows)
 
 ## How to use
 
@@ -21,5 +20,3 @@ Say or type a command such as:
 - `flip coin` or `toss a coin`
 
 You can roll up to four dice at once, including percentile dice. The dice tumble in a temporary window and land on their selected numbered faces before Capri announces the result. Coin flips settle on heads or tails.
-
-Code mods run C# locally on your PC, so Capri asks before enabling them. No separate program or graphics engine is needed.
