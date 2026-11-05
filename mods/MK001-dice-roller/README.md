@@ -23,5 +23,3 @@ Say or type a command such as:
 You can roll up to four dice at once, including percentile dice. The dice tumble in a temporary window and land on their selected numbered faces before Capri announces the result. Coin flips settle on heads or tails.
 
 Code mods run C# locally on your PC, so Capri asks before enabling them. No separate program or graphics engine is needed.
-
-![Dice Roller preview](preview.png)
