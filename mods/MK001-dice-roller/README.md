@@ -2,7 +2,7 @@
 
 Roll animated 3D tabletop dice or flip a coin with Capri. Supports D4, D6, D8, D10, D12, D20 and D100 (two percentile dice), with numbered faces, cyberpunk visuals and playful commentary based on the result.
 
-- Kind: code mod
+- Kind: code
 - Made by: Mirit0
 - Version: 1.0.7
 
